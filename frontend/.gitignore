@@ -25,12 +25,3 @@ dist-ssr
 
 node_modules
 
-public/vite.svg
-
-.eslintrc.cjs
-
-package.json
-
-package-lock.json
-
-vite.config.js
