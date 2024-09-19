@@ -1,2 +1,2 @@
 # FeastFinder
-An Ecommerce Website
+A Food Delivery Website
